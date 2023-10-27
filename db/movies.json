@@ -1,0 +1,134 @@
+[
+  {
+    "genre_name": "Science",
+    "name": "2001: A Space Odyssey",
+    "year": 1968,
+    "id": 1
+  },
+  {
+    "genre_name": "Drama",
+    "name": "The Godfather",
+    "year": 1972,
+    "id": 2
+  },
+  {
+    "genre_name": "Drama",
+    "name": "Citizen Kane",
+    "year": 1941,
+    "id": 3
+  },
+  {
+    "genre_name": "Drama",
+    "name": "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles",
+    "year": 1975,
+    "id": 4
+  },
+  {
+    "genre_name": "Adventure",
+    "name": "Raiders of the Lost Ark",
+    "year": 1981,
+    "id": 5
+  },
+  {
+    "genre_name": "Melodrama",
+    "name": "La Dolce Vita",
+    "year": 1960,
+    "id": 6
+  },
+  {
+    "genre_name": "Melodrama",
+    "name": "Seven Samurai",
+    "year": 1954,
+    "id": 7
+  },
+  {
+    "genre_name": "Melodrama",
+    "name": "In the Mood for Love",
+    "year": 2000,
+    "id": 8
+  },
+  {
+    "genre_name": "Melodrama",
+    "name": "There Will Be Blood",
+    "year": 2007,
+    "id": 9
+  },
+  {
+    "genre_name": "Musical",
+    "name": "Singin’ in the Rain",
+    "year": 1952,
+    "id": 10
+  },
+  {
+    "genre_name": "Thriller",
+    "name": "North by Northwest",
+    "year": 1959,
+    "id": 11
+  },
+  {
+    "genre_name": "Melodrama",
+    "name": "Bicycle Thieves",
+    "year": 1948,
+    "id": 12
+  },
+  {
+    "genre_name": "Action",
+    "name": "The Dark Knight",
+    "year": 2008,
+    "id": 13
+  },
+  {
+    "genre_name": "Comedy",
+    "name": "City Lights",
+    "year": 1931,
+    "id": 14
+  },
+  {
+    "genre_name": "Military",
+    "name": "Grand Illusion",
+    "year": 1937,
+    "id": 15
+  },
+  {
+    "genre_name": "Comedy",
+    "name": "His Girl Friday",
+    "year": 1940,
+    "id": 16
+  },
+  {
+    "genre_name": "Melodrama",
+    "name": "The Red Shoes",
+    "year": 1948,
+    "id": 17
+  },
+  {
+    "genre_name": "Thriller",
+    "name": "Vertigo",
+    "year": 1958,
+    "id": 18
+  },
+  {
+    "genre_name": "Drama",
+    "name": "Beau Travail",
+    "year": 1999,
+    "id": 19
+  },
+  {
+    "genre_name": "Western",
+    "name": "The Searchers",
+    "year": 1956,
+    "id": 20
+  },
+  {
+    "genre_name": "Drama",
+    "name": "Persona",
+    "year": 1966,
+    "id": 21
+  },
+  {
+    "genre_name": "Comedy",
+    "name": "Do the Right Thing",
+    "year": 1989,
+    "id": 22
+  }
+]

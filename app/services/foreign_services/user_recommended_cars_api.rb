@@ -1,0 +1,3 @@
+class ForeignServices::UserRecommendedMoviesApi
+
+end
